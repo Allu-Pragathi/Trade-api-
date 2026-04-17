@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+google-genai
+ddgs
+python-dotenv
+slowapi
+httpx
+pydantic
+python-multipart
+markdown
